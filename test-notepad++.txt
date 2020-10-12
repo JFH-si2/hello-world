@@ -1,1 +1,2 @@
 Dit is een test in notepad++.
+(En nu is hij aangepast in GitHub zelf.)
